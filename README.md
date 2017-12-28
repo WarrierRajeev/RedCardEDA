@@ -1,0 +1,5 @@
+# Exploratory Data Analysis
+
+## This was based off of a wonderful pycon 2017 talk https://www.youtube.com/watch?v=W5WE9Db2RLU&t=3670s on Exploratory data analysis. They had a complete notebook up and this was basically an attempt to learn from their notebook and recreate what they did. I originally had it all written out in one notebook but it was too long. The talk is fantastic and so is their guide.
+
+### Red Card data : The dataset is available as a list with 146,028 dyads of players and referees and includes details from players, details from referees and details regarding the interactions of player-referees. A detailed description of all variables included can be seen in the README file on the project website. The task was to do an Exploratory Data Analysis on the redcard dataset. Keeping in mind the question: Are soccer referees more likely to give red cards to dark-skin-toned players than light-skin-toned players? 
